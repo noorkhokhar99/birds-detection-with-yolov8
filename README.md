@@ -6,7 +6,6 @@ Real-Time Object Segmentation and Tracking using YOLOv8 | chicken Counting
 # Real-Time Object Segmentation and Tracking using YOLOv8 | chicken Counting
 
 
-A simple face orienter for humans.
 
 
 
@@ -37,7 +36,7 @@ pip install -r requirements.txt
 
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/Real-Time-Object-Segmentation-and-Tracking-using-YOLOv8-chicken-Counting-/blob/main/Screen%20Shot%202023-02-17%20at%202.26.09%20pm.png">
+<img src="https://github.com/noorkhokhar99/birds-detection-with-yolov8/blob/main/bird%20detection%20python%20opencv.png">
 </p>
 
 
