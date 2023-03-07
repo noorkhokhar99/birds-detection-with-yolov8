@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 
 
-
+download deepsort: https://drive.google.com/file/d/1N8T8pXj8pw_tIVkinJhZCnxDezjzTOUh/view?usp=sharing
 
 
 ### Inference on a video:
