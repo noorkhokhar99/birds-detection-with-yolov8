@@ -14,11 +14,11 @@ A simple face orienter for humans.
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/Real-Time-Object-Segmentation-and-Tracking-using-YOLOv8-chicken-Counting-.git
+git clone https://github.com/noorkhokhar99/birds-detection-with-yolov8.git
 ```
 - Goto the cloned folder.
 ```
-cd Real-Time-Object-Segmentation-and-Tracking-using-YOLOv8-chicken-Counting-
+cd birds-detection-with-yolov8
 
 ```
 - Upgrade pip with mentioned command below.
